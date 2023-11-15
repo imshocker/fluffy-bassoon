@@ -28,7 +28,6 @@ To test the application routes, Insomnia can be used. Following the URL routes o
 ## License ![Badge Icon](https://shields.io/badge/license-GPL-blue)
 Visit [GPL License](https://www.gnu.org/licenses/gpl-3.0) for all information about this license
 
-Please DO NOT redistribute this application.
 
 ## How to Contribute
 
